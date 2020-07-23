@@ -1,0 +1,26 @@
+{
+  "name": "webglexpoem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidLM20/webglExpoEm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidLM20/webglExpoEm/issues"
+  },
+  "homepage": "https://github.com/davidLM20/webglExpoEm#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "v12.18.2",
+    "npm": "6.14.5"
+  }
+}
